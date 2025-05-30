@@ -1,4 +1,3 @@
-Add files via upload
 SafeSurfer is a lightweight Chrome extension designed to enhance online safety by performing real-time analysis of web pages to detect phishing attempts, hidden malware, suspicious scripts, and unsafe file downloads.
 It uses a behavior-based heuristic model with a custom scoring system to evaluate website threats and notify users through an intuitive popup interface.
 🚀 Features:
